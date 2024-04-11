@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\bin\Debug\net8.0\PROG6221_PART 1 ST10241408.exe
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\bin\Debug\net8.0\PROG6221_PART 1 ST10241408.deps.json
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\bin\Debug\net8.0\PROG6221_PART 1 ST10241408.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\bin\Debug\net8.0\PROG6221_PART 1 ST10241408.dll
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\bin\Debug\net8.0\PROG6221_PART 1 ST10241408.pdb
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\PROG6221_PART 1 ST10241408.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\PROG6221_PART 1 ST10241408.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\PROG6221_PART 1 ST10241408.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\PROG6221_PART 1 ST10241408.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\PROG6221_PART 1 ST10241408.dll
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\refint\PROG6221_PART 1 ST10241408.dll
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\PROG6221_PART 1 ST10241408.pdb
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\PROG6221_PART 1 ST10241408.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\PROG6221_PART 1 ST10241408\obj\Debug\net8.0\ref\PROG6221_PART 1 ST10241408.dll
