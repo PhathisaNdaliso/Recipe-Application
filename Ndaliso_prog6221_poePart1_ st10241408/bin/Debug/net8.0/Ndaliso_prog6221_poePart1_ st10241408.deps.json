@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ndaliso_prog6221_poePart1_ st10241408/1.0.0": {
+        "runtime": {
+          "Ndaliso_prog6221_poePart1_ st10241408.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ndaliso_prog6221_poePart1_ st10241408/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
