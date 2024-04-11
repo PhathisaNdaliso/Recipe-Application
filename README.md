@@ -1,5 +1,4 @@
-# PoePart1
-# st10241408-Prog6221-poe-part-1
+
 # Recipe Application
 
 ## Description
